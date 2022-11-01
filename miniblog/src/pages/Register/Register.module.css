@@ -3,14 +3,15 @@ div {
 }
 
 div p {
-    margin-bottom: 2em;
+    margin-bottom: 3em;
 }
 
 .register p {
-    color: #aaa;
+    color: #aa07aa;
 }
 
 .register h1 {
+    margin-top: 3em;
     text-align: center;
 }
 
