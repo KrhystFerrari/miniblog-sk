@@ -1,0 +1,55 @@
+.navbar {
+    display: flex;
+    box-shadow: rgba(159, 15, 181, 0.15) 1px 8px 10px 1px;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5em 2em;
+    font-family: 'Sancreek';
+    background-color: #232424;
+}
+
+.brand {
+    transition: .5s ease-in-out;
+}
+
+.brand:hover {
+    background-color: #aa07aa;
+    color: #232424;
+}
+
+.brand {
+    color: #aa07aa;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.brand span {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.links_list {
+    display: flex;
+    list-style: none;
+}
+
+.links_list {
+    margin-right: 1em;
+}
+
+.links_list li a {
+    color: #aa07aa;
+    padding: .4em .6em;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+
+.links_list a {
+    transition: .5s ease-in-out;
+}
+
+.links_list a:hover {
+    background-color: #aa07aa;
+    color: #232424;
+}
+
