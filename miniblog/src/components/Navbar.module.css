@@ -1,6 +1,6 @@
 .navbar {
     display: flex;
-    box-shadow: rgba(159, 15, 181, 0.15) 1px 8px 10px 1px;
+    box-shadow: rgba(132, 10, 184, 0.15) 1px 8px 10px 1px;
     justify-content: space-between;
     align-items: center;
     padding: .5em 2em;
@@ -13,12 +13,12 @@
 }
 
 .brand:hover {
-    background-color: #aa07aa;
+    background-color: #7907AA;
     color: #232424;
 }
 
 .brand {
-    color: #aa07aa;
+    color: #7907AA;
     font-size: 2em;
     text-decoration: none;
 }
@@ -38,7 +38,7 @@
 }
 
 .links_list li a {
-    color: #aa07aa;
+    color: #7907AA;
     padding: .4em .6em;
     font-size: 1.3em;
     text-decoration: none;
@@ -49,7 +49,7 @@
 }
 
 .links_list a:hover {
-    background-color: #aa07aa;
+    background-color: #7907AA;
     color: #232424;
 }
 

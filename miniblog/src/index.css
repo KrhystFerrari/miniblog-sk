@@ -4,7 +4,7 @@ body {
   padding: 0;
   background-color: #232424;
   font-family: 'Sancreek', 'Dancing Script';
-  color: #aa07aa;
+  color: #7907AA;
   box-sizing: border-box;
 }
 
@@ -26,7 +26,7 @@ nav button {
   text-decoration: none;
   background-color: transparent;
   border: none;
-  color: #aa07aa;
+  color: #7907AA;
   transition: .5s ease-in-out;
   font-size: 1.3em;
   cursor: pointer;
@@ -35,7 +35,7 @@ nav button {
 
 a:hover,
 nav button:hover {
-  background-color: #aa07aa;
+  background-color: #7907AA;
   color: #232424;
 }
 
@@ -67,7 +67,7 @@ textarea {
   color: #aaa;
   box-sizing: border-box;
   border: none;
-  border-bottom: 1px solid #aa07aa;
+  border-bottom: 1px solid #7907AA;
   border-radius: 5px;
   padding: .8em 0;
   background-color: transparent;
@@ -75,20 +75,20 @@ textarea {
 
 .btn {
   background-color: #232424;
-  color: #aa07aa;
+  color: #7907AA;
   text-align: center;
   cursor: pointer;
   border-radius: 5px;
   width: 125px;
   margin-top: 1em;
   font-weight: bold;
-  border: 1px solid #aa07aa;
+  border: 1px solid #7907AA;
   padding: 10px 15px;
   font-size: 1em;
 }
 
 .btn:hover {
-  background-color: #aa07aa;
+  background-color: #7907AA;
   color: #232424;
 }
 
@@ -114,8 +114,8 @@ textarea {
 }
 
 .btn:hover {
-  background-color: #0f730c;
-  color: #fff;
+  background-color: #7907AA;
+  color: #000;
 }
 
 .btn.btn-outline:hover {
